@@ -1,8 +1,10 @@
-# Welcome to Remix!
+# Welcome to Snip Elephant
 
-- [Remix Docs](https://remix.run/docs)
+- [Running solution](https://awp-snippet-saver-q9p5.onrender.com/)
 
 ## Development
+
+- [Remix Docs](https://remix.run/docs)
 
 From your terminal:
 
