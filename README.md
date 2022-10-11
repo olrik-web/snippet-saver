@@ -9,7 +9,7 @@
 
 Snip Elephant is a school assignment which is built using React, [Remix Framework](https://remix.run/), MongoDB and Mongoose. 
 
-The purpose of Snip Elephant is too allow developers to save code snippets. The snippets are saved in folders to allow the user to organise their snippets for quick access. It is called Snip Elephant because an elephant has great memory (supposedly) and can remember your code snippets so you don't have to. 
+The purpose of Snip Elephant is too allow developers to save code snippets. The snippets are saved in folders to allow the user to organise their snippets for quick access. It is called Snip Elephant because an elephant has great memory and can remember your code snippets so you don't have to. 
 
 It is a work in progress. Here I've listed some of the missing features, which I'm working on:
 - Edit/delete collections and snippets
