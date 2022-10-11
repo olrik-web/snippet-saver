@@ -1,6 +1,9 @@
 # Welcome to Snip Elephant
 
 - [Check out the running solution](https://awp-snippet-saver-q9p5.onrender.com/)
+- Create a new user or use the following:
+- Email: admin@admin.com
+- Password: snip123
 
 ## Development
 
