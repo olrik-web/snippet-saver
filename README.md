@@ -25,6 +25,7 @@ It is a work in progress. Here I've listed some of the missing features, which I
 - Auto-save funcionality when creating/editing a snippet
 - Copy button for code snippet
 - Export code to HTML, PDF, plaintext, JSON ...?
+- Accept cookies popup
 - Several UI improvements
 
 ## Development
