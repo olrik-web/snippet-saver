@@ -45,7 +45,7 @@ npm run dev
 
 This starts your app in development mode, rebuilding assets on file changes.
 
-## Below are a few screenshots of the UI. 
+## Below are a few screenshots of the UI
 
 ### The front page
 ![Front page](/app/images/Homepage.png)
