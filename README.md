@@ -1,6 +1,6 @@
 # Welcome to Snip Elephant
 
-- [Running solution](https://awp-snippet-saver-q9p5.onrender.com/)
+- [Check out the running solution](https://awp-snippet-saver-q9p5.onrender.com/)
 
 ## Development
 
